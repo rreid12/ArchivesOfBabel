@@ -1,3 +1,10 @@
+# Archives of Babel
+
+-This project was completed for a Database Management Systems course by myself and two other students
+-It is intended to function as a general library's database and has been written in SQLite
+-A front end for both members and employees of the library is also included and is written in Java
+-Much of the documentation of the design process is included as PDFs
+
 SET-UP:
 Enter the directory on your system which contains the Executable JAR file submitted with the project and enter the 
 following command:
@@ -5,7 +12,7 @@ following command:
 	java -jar AoBApplication.jar <path to database file>
 
 
-Be sure to add your system’s absolute path to the database file at the end of the command to ensure that the program 
+Be sure to add your systemâ€™s absolute path to the database file at the end of the command to ensure that the program 
 can properly connect to the AoB Database. If done correctly, the front page of the application should appear.
 
 PLEASE NOTE: 
