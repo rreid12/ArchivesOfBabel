@@ -1,8 +1,11 @@
 # Archives of Babel
 
 -This project was completed for a Database Management Systems course by myself and two other students
+
 -It is intended to function as a general library's database and has been written in SQLite
+
 -A front end for both members and employees of the library is also included and is written in Java
+
 -Much of the documentation of the design process is included as PDFs
 
 SET-UP:
